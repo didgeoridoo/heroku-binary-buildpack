@@ -2,5 +2,3 @@
 # bin/compile <build-dir> <cache-dir>
 
 export PATH=$PATH:./bin
-mkdir ~/Home
-cd ~/Home
