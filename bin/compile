@@ -1,7 +1,3 @@
 #!/usr/bin/env bash
 # bin/compile <build-dir> <cache-dir>
 
-cd cli
-npm install
-npx @oclif/dev-cli pack -t linux-x64
-gzip -d dist/sf-v0.0.0/sf-v0.0.0.tar.gz
