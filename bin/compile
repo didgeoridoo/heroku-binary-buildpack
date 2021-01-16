@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 # bin/compile <build-dir> <cache-dir>
 
+npm install -g @oclif/dev-cli
